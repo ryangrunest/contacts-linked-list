@@ -1,6 +1,17 @@
 #include <iostream>
 #include <string>
 
+/*
+test input:
+
+Roxanne Hughes
+443-555-2864
+Juan Alberto Jr.
+410-555-9385
+Rachel Phillips
+310-555-6610
+*/
+
 using namespace std;
 
 class ContactNode {
